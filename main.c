@@ -3,6 +3,6 @@
 
 int main(){
     printf("%d\n",problem1());
-    printf("%d",problem6());
+    printf("%d\n",problem6());
     return 0;
 }

@@ -11,7 +11,7 @@ int problem1(){
     return sum;
 }
 
-int problem5(){ 
+int problem6(){ 
     int squares = 0;
     int squared = 0;
     for(a = 0; a < 101; a++){
